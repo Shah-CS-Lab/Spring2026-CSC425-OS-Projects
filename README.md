@@ -1,6 +1,6 @@
 # Course Project Submissions – Spring 2026
 
-## Course: [Write course name here]
+## Course: CSC 424: Operating System Concepts 
 
 ## Instructions for Students
 
