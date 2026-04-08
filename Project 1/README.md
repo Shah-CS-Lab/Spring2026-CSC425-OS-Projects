@@ -1,1 +1,1 @@
-This is Project1 folder. Students assigned Project1 upload their work here.
+Project: Smart MiniOS Simulator – Interactive Operating Systems Learning Tool 
